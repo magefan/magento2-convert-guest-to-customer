@@ -23,10 +23,10 @@ Even if the customer sets different email addresses placing an order as guest an
 In case someone places an order with the unregistered email Magento 2 Guest to Customer extension creates a customer account automatically. It also assigns and marks new customer billing and shipping addresses as default.
 
 <p align="center">
-  <img width="900" height="600" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer-orders.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer-orders.webp">
 </p>
 <p align="center">
-  <img width="900" height="600" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer-configuration_2.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer-configuration_2.webp">
 </p>
 
 ### Change Customer
@@ -34,7 +34,7 @@ In case someone places an order with the unregistered email Magento 2 Guest to C
 The extension assigns guest orders to customer accounts and uses the order details to fill in new customer account information. However, Magento 2 Guest to Customer extension also allows you to change order customer in one click if needed.
 
 <p align="center">
-  <img width="900" height="600" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer-change_2.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer-change_2.webp">
 </p>
 
 ### Automatically Convert Guest To Customer
@@ -50,7 +50,7 @@ If you have just felt the need to convert guest orders to customer accounts to i
 During the guest to customer conversion billing,shipping and email addresses are assigned to the customer account. New customers receive a notification about an account creation with the link to reset the password.
 
 <p align="center">
-  <img width="900" height="600" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer_2.webp">
+  <img width="700" height="349" src="https://cm.magefan.com/mf_webp/png/media/archive/magento-2-convert-guest-to-customer_2.webp">
 </p>
 
 ### GDPR Compliance
