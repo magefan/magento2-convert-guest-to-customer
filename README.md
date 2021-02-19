@@ -3,6 +3,9 @@
 
 [Magento 2 Guest to Customer](https://magefan.com/magento2-convert-guest-to-customer) is the extension that helps you to improve your customers experience and collect more customer information while allowing guest checkout. This module allows you to convert guest orders to customer accounts in one click or configure the automatic guest to customer conversion.
 
+
+<a href="https://magefan.com/magento2-convert-guest-to-customer"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+
 ## Benefits
 
 * Improved Customer Engagement
