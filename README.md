@@ -77,7 +77,7 @@ Magento 2 Convert Guest to Customer extension complies with the General Data Pro
 
 If you want to learn more about how to convert guest orders to customers or to change order customers in the Magento 2 admin panel, watch [this short video](https://www.youtube.com/watch?v=fGWtkmA4bYo).
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
